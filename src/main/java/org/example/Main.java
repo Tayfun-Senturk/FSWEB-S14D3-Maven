@@ -11,7 +11,7 @@ import org.example.company.Mitsubishi;
 
 public class Main {
     public static void main(String[] args) {
-        CarSkeleton tesla= new ElectricCar("tesla","araba",5,10);
+        CarSkeleton tesla= new ElectricCar("tesla","arabaa",5,10);
         CarSkeleton lada=new GasPoweredCar("Lada","Test",8,2);
         CarSkeleton honda=new HybridCar("Honda","test",2,6,4);
         honda.startEngine();
